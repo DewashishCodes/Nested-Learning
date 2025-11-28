@@ -41,6 +41,7 @@ Nested-Learning/
 ├── tiny-shakespear.ipynb                 # Example training on Tiny Shakespeare
 │
 └── NL.pdf                                # Original Google research paper
+└── NL-Handwritten-Notes.pdf              # Handwritten notes for mathematical and theoretical reference                
 ```
 
 Each component is designed to be **independently testable** and can be imported into larger models.
